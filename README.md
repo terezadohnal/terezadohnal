@@ -32,6 +32,12 @@ I'm not working on any big project right know. Firstly I want to be more aware o
 - **Programming in C++** - In this course I dived deeper in OOP. I learned how to build UI using QML and QT Creator.
 - **Programming techniques** - In this course I studied data structures, abstract data types, algorithms, searching, sorting and working with files.
 
+### Currently studying:
+
+- **Mobile App development fo iOS** - In this course I am learning how to build an App in SwiftUI.
+- **Web Applications** - Building web App using Node.JS, MySQL and Vue. TypeScript is optional.
+- **Application of Development Techniques** - This course is only practical. We chose topic we want to work on and consultant. I went for Analysis of comments under articles about Ukraine using Web Scraping.
+
 # My tech stack
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a> <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> <a/> <a href="https://www.php.net/" target="_blank"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/> </a> <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="react"/> </a> 
