@@ -37,6 +37,7 @@ I'm not working on any big project right know. Firstly I want to be more aware o
 - **Mobile App development fo iOS** - In this course I am learning how to build an App in SwiftUI.
 - **Web Applications** - Building web App using Node.JS, MySQL and Vue. TypeScript is optional.
 - **Application of Development Techniques** - This course is only practical. We chose topic we want to work on and consultant. I went for Analysis of comments under articles about Ukraine using Web Scraping.
+- **Database Systems and Database Design** - I am learning how to design database models, understanding and describing SQL queries.
 
 # My tech stack
 
