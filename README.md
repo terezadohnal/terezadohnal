@@ -31,9 +31,6 @@ I'm not working on any big project right know. Firstly I want to be more aware o
 - **Web Applications Development** - In this course I learned how to build basic application using PHP, MySQL, Latte and Slim Framework
 - **Programming in C++** - In this course I dived deeper in OOP. I learned how to build UI using QML and QT Creator.
 - **Programming techniques** - In this course I studied data structures, abstract data types, algorithms, searching, sorting and working with files.
-
-### Currently studying:
-
 - **Mobile App development fo iOS** - In this course I am learning how to build an App in SwiftUI.
 - **Web Applications** - Building web App using Node.JS, MySQL and Vue. TypeScript is optional.
 - **Application of Development Techniques** - This course is only practical. We chose topic we want to work on and consultant. I went for Analysis of comments under articles about Ukraine using Web Scraping.
