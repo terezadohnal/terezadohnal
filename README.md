@@ -2,11 +2,7 @@
 
 # I am Tereza, IT student, mainly focusing on Web Development.
 
-My goal is to become Front-end developer and successfully graduate from IT&Economics. The reason why I am using GitHub is to map my journey from the beggining and to see the progress I'm doing.
-
 **I’m currently working on .. improving my skills.**
-
-I'm not working on any big project right know. Firstly I want to be more aware of the languages I'm learning and then move on some practice.
 
 # Learning journey
 
@@ -15,10 +11,6 @@ I'm not working on any big project right know. Firstly I want to be more aware o
 - **[JavaScript 1](https://www.czechitas.cz/kurzy/javascript-1)** - This was the first course I've taken. It's made by czech non-profit organization called [Czechitas](https://www.czechitas.cz/en) to empower women in IT.
 - **[Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)** (FreeCodeCamp)
 - **[Complete Web & Mobile Designer in 2021](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/)** (Udemy)
-
-
-## Courses I am working on right now:
-
 - **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)** (Udemy)
 - **[React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)** (Udemy)
 
